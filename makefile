@@ -1,6 +1,5 @@
 all: README.md
 
- 
 README.md: guessinggame.sh
 	echo "Operativni sistemi" > README.md
 	echo "\n guessinggame.sh" >> README.md
