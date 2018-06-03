@@ -17,7 +17,7 @@ do
 	fi
 	pitaj
 done
-
+ 
 echo "Pogodili ste tacan broj fajlova !"
 
 echo "---" && ls -1
